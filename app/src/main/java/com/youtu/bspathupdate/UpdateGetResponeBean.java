@@ -8,7 +8,7 @@ public class UpdateGetResponeBean {
 
     /**
      * code : 10000
-     * data : {"forceInstall":false,"incrementalUpdateInfo":{"fullApkMD5":"125","patchUrl":"www.p1andp5.com"},"installType":"NOTIFY_INSTALL","updateSize":500,"updateTime":"2016-12-30 16:57:43","updateType":"INCREMENTAL_UPDATE","versionCode":"5.0","versionName":"apk5.0"}
+     * data : {"forceInstall":false,"incrementalUpdateInfo":{"fullApkMD5":"125","patchUrl":"www.p1andp5.com"},"installType":"NOTIFY_INSTALL","updateSize":500,"updateTime":"2016-12-30 16:57:43","updateType":"INCREMENTAL_UPDATE","versionCode":5,"versionName":"apk5.0"}
      * message : 成功
      */
 
@@ -48,7 +48,7 @@ public class UpdateGetResponeBean {
          * updateSize : 500
          * updateTime : 2016-12-30 16:57:43
          * updateType : INCREMENTAL_UPDATE
-         * versionCode : 5.0
+         * versionCode : 5
          * versionName : apk5.0
          */
 
